@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://ram-krishna.info.np/sitemap.xml
